@@ -1,0 +1,1 @@
+# ncmpc-lyrics-script
